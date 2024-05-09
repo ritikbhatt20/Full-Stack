@@ -1,0 +1,6 @@
+1. create database
+2. create table
+3. insert data into table
+4. select * (to check all values)
+5. delete query (to remove)
+6. update query (to edit one field)
